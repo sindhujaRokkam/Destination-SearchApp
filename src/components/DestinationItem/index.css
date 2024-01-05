@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.history-item {
+  list-style: none;
+}
+.image {
+  width: 200px;
+}
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 13px;
+}
